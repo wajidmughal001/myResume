@@ -1,9 +1,11 @@
 body{
     margin: 0;
-    background-color: lightgrey;
+    /* background-color: lightgrey;
     background-image: url("../images/banner.jpg");
     background-repeat: no-repeat;
     background-size: cover;
     background-attachment: fixed;
-    background-blend-mode: overlay;
+    background-blend-mode: overlay; */
+    background-color: rgb(14, 13, 13);
+    color: rgb(98, 228, 228);
 }
